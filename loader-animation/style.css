@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+#cLeft {
+    fill: red;
+}
+
+#cCenter {
+    fill: blue;
+}
+
+#cRight {
+    fill: green;
+}
